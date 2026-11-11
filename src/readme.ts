@@ -49,14 +49,14 @@ ${linkedPictureBlock(data.links.linkedin, 'pill-linkedin', 'Connect on LinkedIn'
 
 <a id="system-architecture"></a>
 
-${pictureBlock('bento', 'Apple Bento Grid — Autonomous KYC Engine, Production Telemetry, Zero-Trust Security, and Ecosystem Matrix')}
+${pictureBlock('bento', 'Bento Grid — Agentic AI Workflows, Measured Impact, Supply Chain Security, and Ecosystem Matrix')}
 
 <details>
-<summary><b>⊕ Interactive Spec 01 — Autonomous KYC Multi-Agent Architecture (ENGIE UK)</b> &nbsp;<sub>Click to expand technical breakdown</sub></summary>
+<summary><b>⊕ Interactive Spec 01 — Multi-Agent Architecture (Reference Pattern)</b> &nbsp;<sub>Click to expand overview</sub></summary>
 
 <br>
 
-> Designed around deterministic policy gates and auditable Infrastructure-as-Code workflows so autonomous agents operate safely in enterprise compliance environments.
+> A general multi-agent pattern: specialised agents, deterministic checks and auditable, version-controlled delivery.
 
 | Stage | Subsystem | Responsibility |
 | :--- | :--- | :--- |

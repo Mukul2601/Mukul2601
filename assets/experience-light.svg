@@ -43,7 +43,7 @@
         <line x1="46" y1="264" x2="194" y2="264" stroke="rgba(0, 0, 0, 0.07)" stroke-width="1"/>
 
         <rect x="46" y="282" width="148" height="28" rx="9" fill="rgba(0, 102, 204, 0.10)" stroke="rgba(0, 0, 0, 0.09)" stroke-width="1"/>
-        <text x="120" y="300" text-anchor="middle" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#0066CC">KYC Agentic AI</text>
+        <text x="120" y="300" text-anchor="middle" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" fill="#0066CC">Agentic AI</text>
       </g>
 
       <g>

@@ -113,7 +113,7 @@ export function renderBentoSvg(data: ProfileData, mode: ThemeMode): string {
     </radialGradient>
   </defs>
 
-  <!-- CARD 1: Autonomous KYC Verification Engine -->
+  <!-- CARD 1: Agentic AI Workflows -->
   <g>
     <rect x="0.75" y="0.75" width="610.5" height="250.5" rx="23.25" fill="${t.cardBg}" stroke="${t.cardBorder}" stroke-width="1.5"/>
     <rect x="0.75" y="0.75" width="610.5" height="250.5" rx="23.25" fill="url(#card1-glow)"/>

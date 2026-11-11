@@ -42,34 +42,33 @@ export const profileData: ProfileData = {
     }
   ],
   agentWorkflow: {
-    eyebrow: 'LIVE SYSTEM  ·  ENGIE UK',
-    title: 'Autonomous KYC Verification Engine',
-    subtitle:
-      'Microsoft Agentic Framework + GitOps IaC automating compliance checks.',
+    eyebrow: 'MULTI-AGENT SYSTEMS  ·  REFERENCE PATTERN',
+    title: 'Agentic AI Workflows',
+    subtitle: 'Cooperating AI agents with Git-based, auditable delivery.',
     stages: [
       {
-        step: '01 · INGEST',
-        title: 'Intake Node',
-        subtitle: 'Doc Parsing',
-        detail: 'Normalizes unstructured KYC filings and validates schema integrity.'
+        step: '01 · PLAN',
+        title: 'Planner Agent',
+        subtitle: 'Task Decomposition',
+        detail: 'Breaks a goal into well-scoped steps for specialised agents.'
       },
       {
-        step: '02 · EXTRACT',
-        title: 'Entity Agent',
-        subtitle: 'Signal Synthesis',
-        detail: 'Extracts corporate entities, registries, and risk indicators autonomously.'
+        step: '02 · ACT',
+        title: 'Tool Agent',
+        subtitle: 'Tool Use',
+        detail: 'Calls tools and services to carry out each step.'
       },
       {
-        step: '03 · VERIFY',
-        title: 'Policy Agent',
-        subtitle: 'Cross-Check',
-        detail: 'Evaluates extracted evidence against compliance rules with deterministic checks.'
+        step: '03 · CHECK',
+        title: 'Review Agent',
+        subtitle: 'Validation',
+        detail: 'Validates results with deterministic checks before moving on.'
       },
       {
-        step: '04 · AUDIT',
-        title: 'IaC Gate',
-        subtitle: 'Verified Output',
-        detail: 'Produces auditable verification dossiers deployed via GitOps infrastructure.'
+        step: '04 · SHIP',
+        title: 'Delivery',
+        subtitle: 'GitOps',
+        detail: 'Ships changes through reviewed, version-controlled workflows.'
       }
     ]
   },
@@ -117,10 +116,10 @@ export const profileData: ProfileData = {
       roleLine2: 'Application Manager',
       fullRole: 'AI Engineer (Application Manager)',
       location: 'London, UK · On-site',
-      badge: 'KYC Agentic AI',
+      badge: 'Agentic AI',
       active: true,
       summary:
-        'Architecting an autonomous KYC background verification tool using the Microsoft Agentic Framework and Git workflows for Infrastructure as Code (IaC).'
+        'Designing and building multi-agent AI applications using the Microsoft Agentic Framework and Git workflows for Infrastructure as Code (IaC).'
     },
     {
       period: 'Jan 2025 – Dec 2025',

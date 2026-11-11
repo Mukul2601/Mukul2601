@@ -19,22 +19,22 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/bento-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/bento-light.svg">
-  <img alt="Apple Bento Grid — Autonomous KYC Engine, Production Telemetry, Zero-Trust Security, and Ecosystem Matrix" src="./assets/bento-dark.svg" width="100%">
+  <img alt="Bento Grid — Agentic AI Workflows, Measured Impact, Supply Chain Security, and Ecosystem Matrix" src="./assets/bento-dark.svg" width="100%">
 </picture>
 
 <details>
-<summary><b>⊕ Interactive Spec 01 — Autonomous KYC Multi-Agent Architecture (ENGIE UK)</b> &nbsp;<sub>Click to expand technical breakdown</sub></summary>
+<summary><b>⊕ Interactive Spec 01 — Multi-Agent Architecture (Reference Pattern)</b> &nbsp;<sub>Click to expand overview</sub></summary>
 
 <br>
 
-> Designed around deterministic policy gates and auditable Infrastructure-as-Code workflows so autonomous agents operate safely in enterprise compliance environments.
+> A general multi-agent pattern: specialised agents, deterministic checks and auditable, version-controlled delivery.
 
 | Stage | Subsystem | Responsibility |
 | :--- | :--- | :--- |
-| `01 · INGEST` | **Intake Node** _(Doc Parsing)_ | Normalizes unstructured KYC filings and validates schema integrity. |
-| `02 · EXTRACT` | **Entity Agent** _(Signal Synthesis)_ | Extracts corporate entities, registries, and risk indicators autonomously. |
-| `03 · VERIFY` | **Policy Agent** _(Cross-Check)_ | Evaluates extracted evidence against compliance rules with deterministic checks. |
-| `04 · AUDIT` | **IaC Gate** _(Verified Output)_ | Produces auditable verification dossiers deployed via GitOps infrastructure. |
+| `01 · PLAN` | **Planner Agent** _(Task Decomposition)_ | Breaks a goal into well-scoped steps for specialised agents. |
+| `02 · ACT` | **Tool Agent** _(Tool Use)_ | Calls tools and services to carry out each step. |
+| `03 · CHECK` | **Review Agent** _(Validation)_ | Validates results with deterministic checks before moving on. |
+| `04 · SHIP` | **Delivery** _(GitOps)_ | Ships changes through reviewed, version-controlled workflows. |
 
 - **Orchestration & Tooling:** Microsoft Agentic Framework · GitOps Workflow for IaC · AI-Assisted Specification & Verification
 - **Active Research:** Secure AI/Container Supply Chains (SBOM provenance) · Quantum Computing & Brain-Computer Interface (BCI) threat surfaces
@@ -58,7 +58,7 @@
 
 | Timeline | Organization &amp; Role | Key Engineering Outcome |
 | :--- | :--- | :--- |
-| **Jan 2026 – Present** | **ENGIE UK** — _AI Engineer (Application Manager)_<br><sub>London, UK · On-site</sub> | Architecting an autonomous KYC background verification tool using the Microsoft Agentic Framework and Git workflows for Infrastructure as Code (IaC). |
+| **Jan 2026 – Present** | **ENGIE UK** — _AI Engineer (Application Manager)_<br><sub>London, UK · On-site</sub> | Designing and building multi-agent AI applications using the Microsoft Agentic Framework and Git workflows for Infrastructure as Code (IaC). |
 | **Jan 2025 – Dec 2025** | **HireMeHub** — _AI Engineer (Freelance)_<br><sub>London, UK · Remote</sub> | Built an AI-driven career platform optimizing technical application materials through automated n8n, Zapier, and Pipedream orchestration. |
 | **Nov 2023 – Jun 2025** | **K3-Innovations** — _Software Engineer — AI Agentic Consultant (Contract)_<br><sub>United States · Remote</sub> | Engineered AWS + REST ETL pipelines and a full-stack Python (Django) analytics platform, boosting data-processing and query performance by 30%. |
 | **Nov 2022 – Sep 2023** | **Accenture** — _Software Engineer — Azure_<br><sub>Hybrid</sub> | Automated ServiceNow request and escalation workflows (reducing ticket backlog by 20%) and led zero-downtime MSSQL patching & migrations on Azure. |
