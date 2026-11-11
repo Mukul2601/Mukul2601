@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="136" viewBox="0 0 1000 136" fill="none" role="img" aria-label="Connect Footer">
+  <defs>
+    <linearGradient id="footer-line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2997FF" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#2997FF"/>
+      <stop offset="50%" stop-color="#AF52DE"/>
+      <stop offset="70%" stop-color="#FF375F"/>
+      <stop offset="100%" stop-color="#FF375F" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="998.5" height="134.5" rx="23.25" fill="#11131A" stroke="rgba(255, 255, 255, 0.10)" stroke-width="1.5"/>
+  <rect x="160" y="0.5" width="680" height="1.5" fill="url(#footer-line)"/>
+
+  <text x="500" y="56" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="24" font-weight="700" letter-spacing="-0.6" fill="#F5F5F7">Let&apos;s build what&apos;s next.</text>
+  <text x="500" y="84" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="13.5" fill="#A1A1AA">Open to conversations on multi-agent systems, cloud architecture, and AI security.</text>
+  <text x="500" y="111" text-anchor="middle" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" letter-spacing="1.4" fill="#71717A">DESIGNED IN LONDON  ·  COMPILED WITH TYPESCRIPT  ·  ADAPTIVE VECTOR ENGINE</text>
+</svg>

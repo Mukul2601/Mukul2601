@@ -1,110 +1,104 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:4c1d95,100:0f172a&height=220&section=header&text=Mukul%20Mogha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Cloud&descAlignY=58&descSize=18">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:a78bfa,100:f0abfc&height=220&section=header&text=Mukul%20Mogha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Cloud&descAlignY=58&descSize=18">
-  <img alt="Mukul Mogha, AI Engineer" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=220&section=header&text=Mukul%20Mogha&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%C2%B7%20Multi-Agent%20Systems%20%C2%B7%20Cloud&descAlignY=58&descSize=18" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
+  <img alt="Mukul Mogha — Multi-agent intelligence, engineered for production." src="./assets/hero-dark.svg" width="100%">
 </picture>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=3B82F6&center=true&vCenter=true&width=640&height=45&lines=AI+Engineer+(Application+Manager)+%40+ENGIE+UK;Designing+scalable+multi-agent+systems;From+prototype+to+production-ready+AI;London%2C+UK" alt="Typing animation">
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-mogha/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mukul2601)
-![Visitors](https://komarev.com/ghpvc/?username=Mukul2601&label=Visitors&color=2563eb&style=for-the-badge)
-
-**[About](#about) · [Experience](#experience) · [Skills](#tech-stack) · [Projects](#featured-projects) · [Connect](#connect)**
+<a href="https://www.linkedin.com/in/mukul-mogha/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-linkedin-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-linkedin-light.svg"><img alt="Connect on LinkedIn" src="./assets/pill-linkedin-dark.svg" height="38"></picture></a>&nbsp;&nbsp;<a href="#system-architecture"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-architecture-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-architecture-light.svg"><img alt="Explore Architecture" src="./assets/pill-architecture-dark.svg" height="38"></picture></a>&nbsp;&nbsp;<a href="#career-trajectory"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-trajectory-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-trajectory-light.svg"><img alt="Career Trajectory" src="./assets/pill-trajectory-dark.svg" height="38"></picture></a>&nbsp;&nbsp;<a href="#featured-engineering"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/pill-projects-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/pill-projects-light.svg"><img alt="Featured Work" src="./assets/pill-projects-dark.svg" height="38"></picture></a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,50:7c3aed,100:ec4899&height=3&section=header" width="100%" alt="">
+<br>
 
-## About
+<a id="system-architecture"></a>
 
-> **I turn AI research into reliable products.**
-
-I'm an AI Engineer (Application Manager) at [ENGIE UK](https://www.linkedin.com/company/1992581/), designing and building **scalable multi-agent systems** for real-world business problems. I care about the whole journey from prototype to secure, production-ready software.
-
-🎓 **MSc Cloud Computing**, University of East London &nbsp;·&nbsp; 📍 **London, UK**
-
-## Currently
-
-| 🔭 Building | 🤖 Using | 🔐 Exploring | 🌱 Learning |
-| :--- | :--- | :--- | :--- |
-| KYC background verification tool with an agentic workflow | Microsoft Agentic Framework, IaC with a Git workflow, AI-assisted development | AI security and secure software supply chains | Quantum computing and brain-computer interfaces |
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,50:7c3aed,100:ec4899&height=3&section=header" width="100%" alt="">
-
-## Experience
-
-| Period | Role | Company |
-| :--- | :--- | :--- |
-| **Jan 2026 – Present** | **AI Engineer (Application Manager)** | **ENGIE UK** |
-| Jan 2025 – Dec 2025 | AI Engineer (Freelance) | HireMeHub |
-| Nov 2023 – Jun 2025 | Software Engineer, AI Agentic Consultant (Contract) | K3-Innovations, Inc. |
-| Nov 2022 – Sep 2023 | Software Engineer, Azure | Accenture |
-| Feb 2022 – Jul 2022 | Graduate Engineering Trainee, ServiceNow Analyst | Birlasoft |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/bento-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/bento-light.svg">
+  <img alt="Apple Bento Grid — Autonomous KYC Engine, Production Telemetry, Zero-Trust Security, and Ecosystem Matrix" src="./assets/bento-dark.svg" width="100%">
+</picture>
 
 <details>
-<summary><b>▸ Highlights (click to expand)</b></summary>
+<summary><b>⊕ Interactive Spec 01 — Autonomous KYC Multi-Agent Architecture (ENGIE UK)</b> &nbsp;<sub>Click to expand technical breakdown</sub></summary>
 
 <br>
 
-- **ENGIE UK:** building a KYC background verification tool that uses an agentic workflow to automate manual data checks.
-- **HireMeHub:** AI-driven career services platform that optimises job application materials, built with n8n, Zapier and Pipedream.
-- **K3-Innovations:** Django data-processing web app with AWS services, REST APIs and ETL pipelines, with a 30% performance improvement.
-- **Accenture:** streamlined ServiceNow request processes and escalations (20% lower ticket backlog); MSSQL patching and migrations on Azure.
-- **Birlasoft:** monitoring tools and Power BI / SQL / Python reporting dashboards.
+> Designed around deterministic policy gates and auditable Infrastructure-as-Code workflows so autonomous agents operate safely in enterprise compliance environments.
+
+| Stage | Subsystem | Responsibility |
+| :--- | :--- | :--- |
+| `01 · INGEST` | **Intake Node** _(Doc Parsing)_ | Normalizes unstructured KYC filings and validates schema integrity. |
+| `02 · EXTRACT` | **Entity Agent** _(Signal Synthesis)_ | Extracts corporate entities, registries, and risk indicators autonomously. |
+| `03 · VERIFY` | **Policy Agent** _(Cross-Check)_ | Evaluates extracted evidence against compliance rules with deterministic checks. |
+| `04 · AUDIT` | **IaC Gate** _(Verified Output)_ | Produces auditable verification dossiers deployed via GitOps infrastructure. |
+
+- **Orchestration & Tooling:** Microsoft Agentic Framework · GitOps Workflow for IaC · AI-Assisted Specification & Verification
+- **Active Research:** Secure AI/Container Supply Chains (SBOM provenance) · Quantum Computing & Brain-Computer Interface (BCI) threat surfaces
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,50:7c3aed,100:ec4899&height=3&section=header" width="100%" alt="">
+<br>
 
-## Focus Areas
+<a id="career-trajectory"></a>
 
-| 🤖 Applied AI | ☁️ Cloud & Delivery | 🔐 Security |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/experience-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/experience-light.svg">
+  <img alt="Career Trajectory — ENGIE UK, HireMeHub, K3-Innovations, Accenture, Birlasoft" src="./assets/experience-dark.svg" width="100%">
+</picture>
+
+<details>
+<summary><b>⊕ Interactive Spec 02 — Career Telemetry &amp; Production Deliverables (2022 – Present)</b> &nbsp;<sub>Click to expand role history</sub></summary>
+
+<br>
+
+| Timeline | Organization &amp; Role | Key Engineering Outcome |
 | :--- | :--- | :--- |
-| Multi-agent systems and LLM apps | Azure and AWS infrastructure | Container and supply chain security |
-| RAG and prompt engineering | CI/CD with GitHub Actions and Jenkins | SBOM and dependency hygiene |
-| Workflow automation (n8n, Zapier) | Docker and IaC | AI and BCI threat research |
+| **Jan 2026 – Present** | **ENGIE UK** — _AI Engineer (Application Manager)_<br><sub>London, UK · On-site</sub> | Architecting an autonomous KYC background verification tool using the Microsoft Agentic Framework and Git workflows for Infrastructure as Code (IaC). |
+| **Jan 2025 – Dec 2025** | **HireMeHub** — _AI Engineer (Freelance)_<br><sub>London, UK · Remote</sub> | Built an AI-driven career platform optimizing technical application materials through automated n8n, Zapier, and Pipedream orchestration. |
+| **Nov 2023 – Jun 2025** | **K3-Innovations** — _Software Engineer — AI Agentic Consultant (Contract)_<br><sub>United States · Remote</sub> | Engineered AWS + REST ETL pipelines and a full-stack Python (Django) analytics platform, boosting data-processing and query performance by 30%. |
+| **Nov 2022 – Sep 2023** | **Accenture** — _Software Engineer — Azure_<br><sub>Hybrid</sub> | Automated ServiceNow request and escalation workflows (reducing ticket backlog by 20%) and led zero-downtime MSSQL patching & migrations on Azure. |
+| **Feb 2022 – Jul 2022** | **Birlasoft** — _Graduate Engineering Trainee — ServiceNow Analyst_<br><sub>Noida, India · Remote</sub> | Developed cloud monitoring utilities and executive Power BI, SQL, and Python reporting dashboards for enterprise client operations. |
 
-## Tech Stack
+- **Academic Foundation:** **MSc Cloud Computing**, University of East London _(London, United Kingdom)_
+
+</details>
+
+<br>
+
+<a id="featured-engineering"></a>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
+<a href="https://github.com/Mukul2601/secure-docker-supply-chain-demo"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-supply-chain-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-supply-chain-light.svg"><img alt="Secure Docker Supply Chain" src="./assets/project-supply-chain-dark.svg" width="49%"></picture></a>&nbsp;<a href="https://github.com/Mukul2601/QuantumBrainCybersecurity"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-quantum-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/project-quantum-light.svg"><img alt="Quantum Brain Cybersecurity" src="./assets/project-quantum-dark.svg" width="49%"></picture></a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,50:7c3aed,100:ec4899&height=3&section=header" width="100%" alt="">
+<details>
+<summary><b>⊕ Interactive Spec 03 — Full Engineering &amp; Cloud Specifications</b> &nbsp;<sub>Click to expand complete stack</sub></summary>
 
-## Featured Projects
+<br>
 
-| 🐳 [secure-docker-supply-chain-demo](https://github.com/Mukul2601/secure-docker-supply-chain-demo) | 🧠 [QuantumBrainCybersecurity](https://github.com/Mukul2601/QuantumBrainCybersecurity) |
+| Domain | Technologies &amp; Practices |
 | :--- | :--- |
-| A mock container security project using Docker, Flask, GitHub Actions and SBOM concepts to demonstrate secure supply chain practices. | A mini-project on a futuristic scenario where quantum computing and brain-computer interfaces converge. |
+| **Applied AI &amp; Agents** | Multi-Agent Systems · Microsoft Agentic Framework · LangChain · PyTorch · TensorFlow · RAG &amp; Evaluation · n8n · Zapier · Pipedream |
+| **Backend &amp; Data** | Python · Django · Flask · REST APIs · ETL Pipelines · MSSQL · SQL · Power BI |
+| **Cloud &amp; MLOps** | Microsoft Azure · AWS · Docker · GitHub Actions · Jenkins · GitOps IaC · Linux · ServiceNow Automation |
+| **Security &amp; Resilience** | Container Hardening · SBOM &amp; Dependency Provenance · Agentic Guardrails · Quantum / BCI Threat Modeling |
+| **Profile Engine** | Built in **TypeScript** (`src/`) — run `npm run generate` to recompile all adaptive Dark/Light SVG scenes and `README.md`. |
 
-## Connect
+</details>
+
+<br>
 
 <div align="center">
 
-Open to conversations about **AI agents, cloud and AI security**.
+<a href="https://www.linkedin.com/in/mukul-mogha/"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg"><source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg"><img alt="Let's build what's next — Connect on LinkedIn" src="./assets/footer-dark.svg" width="100%"></picture></a>
 
-[![LinkedIn](https://img.shields.io/badge/Message_me_on_LinkedIn-2563eb?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul-mogha/)
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,50:7c3aed,100:ec4899&height=110&section=footer" width="100%" alt="">
+![Profile Views](https://komarev.com/ghpvc/?username=Mukul2601&label=Profile%20Views&color=0071e3&style=flat-square)
 
 </div>

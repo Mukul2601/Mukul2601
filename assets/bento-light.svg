@@ -1,0 +1,257 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" fill="none" role="img" aria-label="Apple Bento Capabilities Grid">
+  <defs>
+    <linearGradient id="metric-blue" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0066CC"/>
+      <stop offset="100%" stop-color="#8944AB"/>
+    </linearGradient>
+    <linearGradient id="metric-green" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1E9E44"/>
+      <stop offset="100%" stop-color="#0077ED"/>
+    </linearGradient>
+    <radialGradient id="card1-glow" cx="85%" cy="15%" r="55%">
+      <stop offset="0%" stop-color="#0066CC" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#0066CC" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="card3-glow" cx="82%" cy="68%" r="50%">
+      <stop offset="0%" stop-color="#8944AB" stop-opacity="0.10"/>
+      <stop offset="100%" stop-color="#8944AB" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- CARD 1: Autonomous KYC Verification Engine -->
+  <g>
+    <rect x="0.75" y="0.75" width="610.5" height="250.5" rx="23.25" fill="#FFFFFF" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1.5"/>
+    <rect x="0.75" y="0.75" width="610.5" height="250.5" rx="23.25" fill="url(#card1-glow)"/>
+
+    <!-- Status Pill -->
+    <rect x="468" y="22" width="116" height="26" rx="13" fill="rgba(0, 0, 0, 0.04)" stroke="rgba(0, 0, 0, 0.09)" stroke-width="1"/>
+    <circle cx="484" cy="35" r="3.5" fill="#1E9E44">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="533" y="38.5" text-anchor="middle" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="1" fill="#515154">AGENTIC</text>
+
+    <text x="28" y="39" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.8" fill="#0066CC">LIVE SYSTEM  ·  ENGIE UK</text>
+    <text x="28" y="68" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.5" fill="#1D1D1F">Autonomous KYC Verification Engine</text>
+    <text x="28" y="92" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="13" fill="#515154">Microsoft Agentic Framework + GitOps IaC automating compliance checks.</text>
+
+    <line x1="150" y1="171" x2="172" y2="171" stroke="#0066CC" stroke-opacity="0.38" stroke-width="1.8" stroke-dasharray="3 3"/>
+<line x1="294" y1="171" x2="316" y2="171" stroke="#0066CC" stroke-opacity="0.38" stroke-width="1.8" stroke-dasharray="3 3"/>
+<line x1="438" y1="171" x2="460" y2="171" stroke="#0066CC" stroke-opacity="0.38" stroke-width="1.8" stroke-dasharray="3 3"/>
+    
+      <g>
+        <rect x="28" y="118" width="122" height="106" rx="14" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(0, 0, 0, 0.08);#0066CC;rgba(0, 0, 0, 0.08)" dur="4.6s" begin="0.00s" repeatCount="indefinite"/>
+        </rect>
+        <text x="40" y="142" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="0.8" fill="#0066CC">01 · INGEST</text>
+        <text x="40" y="167" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#1D1D1F">Intake Node</text>
+        <text x="40" y="187" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" fill="#515154">Doc Parsing</text>
+        <rect x="40" y="203" width="98" height="4" rx="2" fill="rgba(0, 0, 0, 0.07)"/>
+        <rect x="40" y="203" width="32" height="4" rx="2" fill="#0066CC">
+          <animate attributeName="width" values="24;98;24" dur="4.6s" begin="0.00s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g>
+        <rect x="172" y="118" width="122" height="106" rx="14" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(0, 0, 0, 0.08);#8944AB;rgba(0, 0, 0, 0.08)" dur="4.6s" begin="1.15s" repeatCount="indefinite"/>
+        </rect>
+        <text x="184" y="142" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="0.8" fill="#8944AB">02 · EXTRACT</text>
+        <text x="184" y="167" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#1D1D1F">Entity Agent</text>
+        <text x="184" y="187" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" fill="#515154">Signal Synthesis</text>
+        <rect x="184" y="203" width="98" height="4" rx="2" fill="rgba(0, 0, 0, 0.07)"/>
+        <rect x="184" y="203" width="32" height="4" rx="2" fill="#8944AB">
+          <animate attributeName="width" values="24;98;24" dur="4.6s" begin="1.15s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g>
+        <rect x="316" y="118" width="122" height="106" rx="14" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(0, 0, 0, 0.08);#0066CC;rgba(0, 0, 0, 0.08)" dur="4.6s" begin="2.30s" repeatCount="indefinite"/>
+        </rect>
+        <text x="328" y="142" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="0.8" fill="#0066CC">03 · VERIFY</text>
+        <text x="328" y="167" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#1D1D1F">Policy Agent</text>
+        <text x="328" y="187" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" fill="#515154">Cross-Check</text>
+        <rect x="328" y="203" width="98" height="4" rx="2" fill="rgba(0, 0, 0, 0.07)"/>
+        <rect x="328" y="203" width="32" height="4" rx="2" fill="#0066CC">
+          <animate attributeName="width" values="24;98;24" dur="4.6s" begin="2.30s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <g>
+        <rect x="460" y="118" width="122" height="106" rx="14" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1">
+          <animate attributeName="stroke" values="rgba(0, 0, 0, 0.08);#1E9E44;rgba(0, 0, 0, 0.08)" dur="4.6s" begin="3.45s" repeatCount="indefinite"/>
+        </rect>
+        <text x="472" y="142" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="9.5" font-weight="600" letter-spacing="0.8" fill="#1E9E44">04 · AUDIT</text>
+        <text x="472" y="167" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="14" font-weight="600" fill="#1D1D1F">IaC Gate</text>
+        <text x="472" y="187" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" fill="#515154">Verified Output</text>
+        <rect x="472" y="203" width="98" height="4" rx="2" fill="rgba(0, 0, 0, 0.07)"/>
+        <rect x="472" y="203" width="32" height="4" rx="2" fill="#1E9E44">
+          <animate attributeName="width" values="24;98;24" dur="4.6s" begin="3.45s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+    <!-- Animated Data Packet -->
+    <circle cx="89" cy="171" r="4.5" fill="#0077ED">
+      <animate attributeName="cx" values="89;233;377;521;521" keyTimes="0;0.3;0.6;0.9;1" dur="4.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;1;1;1;0" keyTimes="0;0.08;0.5;0.9;1" dur="4.6s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- CARD 2: Measured Production Impact -->
+  <g>
+    <rect x="628.75" y="0.75" width="370.5" height="250.5" rx="23.25" fill="#FFFFFF" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1.5"/>
+    <text x="656" y="39" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.8" fill="#86868B">PRODUCTION TELEMETRY</text>
+
+    <!-- Metric 1 -->
+    <text x="656" y="92" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.5" fill="url(#metric-blue)">+30%</text>
+    <text x="776" y="73" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1D1D1F">Pipeline &amp; Query Speed</text>
+    <text x="776" y="92" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" fill="#515154">K3-Innovations · AWS &amp; Django ETL</text>
+    <rect x="656" y="109" width="316" height="7" rx="3.5" fill="rgba(0, 0, 0, 0.07)"/>
+    <rect x="656" y="109" width="265" height="7" rx="3.5" fill="url(#metric-blue)">
+      <animate attributeName="opacity" values="0.82;1;0.82" dur="3.2s" repeatCount="indefinite"/>
+    </rect>
+
+    <line x1="656" y1="136" x2="972" y2="136" stroke="rgba(0, 0, 0, 0.07)" stroke-width="1"/>
+
+    <!-- Metric 2 -->
+    <text x="656" y="191" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="-1.5" fill="url(#metric-green)">-20%</text>
+    <text x="776" y="172" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#1D1D1F">Enterprise Ticket Backlog</text>
+    <text x="776" y="191" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" fill="#515154">Accenture · Azure &amp; ServiceNow Ops</text>
+    <rect x="656" y="208" width="316" height="7" rx="3.5" fill="rgba(0, 0, 0, 0.07)"/>
+    <rect x="656" y="208" width="234" height="7" rx="3.5" fill="url(#metric-green)">
+      <animate attributeName="opacity" values="0.82;1;0.82" dur="3.2s" begin="0.8s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- CARD 3: Zero-Trust AI & Quantum Security -->
+  <g>
+    <rect x="0.75" y="268.75" width="370.5" height="250.5" rx="23.25" fill="#FFFFFF" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1.5"/>
+    <rect x="0.75" y="268.75" width="370.5" height="250.5" rx="23.25" fill="url(#card3-glow)"/>
+
+    <text x="28" y="306" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.8" fill="#8944AB">ZERO-TRUST POSTURE</text>
+    <text x="28" y="335" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.4" fill="#1D1D1F">Supply Chain &amp; BCI Security</text>
+
+    
+      <g>
+        <rect x="28" y="358" width="210" height="31" rx="9" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <circle cx="43" cy="373.5" r="3.5" fill="#1E9E44"/>
+        <text x="55" y="377.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1D1D1F">SBOM &amp; Container Signing</text>
+      </g>
+
+      <g>
+        <rect x="28" y="398" width="210" height="31" rx="9" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <circle cx="43" cy="413.5" r="3.5" fill="#0066CC"/>
+        <text x="55" y="417.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1D1D1F">Agentic Policy Guardrails</text>
+      </g>
+
+      <g>
+        <rect x="28" y="438" width="210" height="31" rx="9" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <circle cx="43" cy="453.5" r="3.5" fill="#8944AB"/>
+        <text x="55" y="457.5" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.2" font-weight="500" fill="#1D1D1F">Quantum &amp; BCI Threat Models</text>
+      </g>
+
+    <!-- Animated Security Radar -->
+    <g>
+      <circle cx="305" cy="414" r="47" stroke="#8944AB" stroke-opacity="0.24" stroke-width="1.2" stroke-dasharray="5 5">
+        <animateTransform attributeName="transform" type="rotate" from="0 305 414" to="360 305 414" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="305" cy="414" r="33" stroke="#0066CC" stroke-opacity="0.35" stroke-width="1.4" stroke-dasharray="18 8">
+        <animateTransform attributeName="transform" type="rotate" from="360 305 414" to="0 305 414" dur="10s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="305" cy="414" r="19" fill="#F8F8FA" stroke="#1E9E44" stroke-opacity="0.55" stroke-width="1.4"/>
+      <path d="M305 404L313 407.5V413.5C313 418.8 309.6 422.8 305 424.3C300.4 422.8 297 418.8 297 413.5V407.5L305 404Z" fill="none" stroke="#1E9E44" stroke-width="1.6" stroke-linejoin="round"/>
+      <path d="M301.8 414L304.1 416.3L308.6 411.8" fill="none" stroke="#1E9E44" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+  </g>
+
+  <!-- CARD 4: Core Architecture Stack -->
+  <g>
+    <rect x="388.75" y="268.75" width="610.5" height="250.5" rx="23.25" fill="#FFFFFF" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1.5"/>
+    <text x="416" y="306" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="600" letter-spacing="1.8" fill="#0066CC">ECOSYSTEM MATRIX</text>
+    <text x="416" y="335" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="-0.4" fill="#1D1D1F">Built on Python, Modern AI &amp; Multi-Cloud</text>
+
+    
+      <g>
+        <text x="416" y="381.5" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#0066CC">AI</text>
+        
+          <g>
+            <rect x="468" y="362" width="62" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="499" y="381.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Python</text>
+          </g>
+          <g>
+            <rect x="537" y="362" width="69" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="571.5" y="381.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">PyTorch</text>
+          </g>
+          <g>
+            <rect x="613" y="362" width="90" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="658" y="381.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">TensorFlow</text>
+          </g>
+          <g>
+            <rect x="710" y="362" width="83" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="751.5" y="381.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">LangChain</text>
+          </g>
+          <g>
+            <rect x="800" y="362" width="90" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="845" y="381.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">MS Agentic</text>
+          </g>
+      </g>
+
+      <g>
+        <text x="416" y="425.5" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#8944AB">CLOUD</text>
+        
+          <g>
+            <rect x="468" y="406" width="55" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="495.5" y="425.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Azure</text>
+          </g>
+          <g>
+            <rect x="530" y="406" width="41" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="550.5" y="425.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">AWS</text>
+          </g>
+          <g>
+            <rect x="578" y="406" width="62" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="609" y="425.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Django</text>
+          </g>
+          <g>
+            <rect x="647" y="406" width="55" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="674.5" y="425.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Flask</text>
+          </g>
+          <g>
+            <rect x="709" y="406" width="90" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="754" y="425.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">REST &amp; ETL</text>
+          </g>
+          <g>
+            <rect x="806" y="406" width="104" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="858" y="425.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">n8n · Zapier</text>
+          </g>
+      </g>
+
+      <g>
+        <text x="416" y="469.5" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10.5" font-weight="700" letter-spacing="1.2" fill="#1E9E44">OPS</text>
+        
+          <g>
+            <rect x="468" y="450" width="62" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="499" y="469.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Docker</text>
+          </g>
+          <g>
+            <rect x="537" y="450" width="118" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="596" y="469.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">GitHub Actions</text>
+          </g>
+          <g>
+            <rect x="662" y="450" width="69" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="696.5" y="469.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Jenkins</text>
+          </g>
+          <g>
+            <rect x="738" y="450" width="90" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="783" y="469.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">GitOps IaC</text>
+          </g>
+          <g>
+            <rect x="835" y="450" width="48" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="859" y="469.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">SBOM</text>
+          </g>
+          <g>
+            <rect x="890" y="450" width="55" height="31" rx="9.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+            <text x="917.5" y="469.5" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#1D1D1F">Linux</text>
+          </g>
+      </g>
+  </g>
+</svg>

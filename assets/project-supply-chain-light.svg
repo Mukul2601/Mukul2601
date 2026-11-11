@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="250" viewBox="0 0 490 250" fill="none" role="img" aria-label="Secure Docker Supply Chain">
+  <defs>
+    <radialGradient id="proj-glow-supply-chain" cx="90%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#0066CC" stop-opacity="0.09"/>
+      <stop offset="100%" stop-color="#0066CC" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="488.5" height="248.5" rx="23.25" fill="#FFFFFF" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1.5"/>
+  <rect x="0.75" y="0.75" width="488.5" height="248.5" rx="23.25" fill="url(#proj-glow-supply-chain)"/>
+
+  <g transform="translate(422, 26)">
+          <rect width="40" height="40" rx="12" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+          <path d="M20 10L29 14.5V24.5L20 29L11 24.5V14.5L20 10Z" stroke="#0066CC" stroke-width="1.6" stroke-linejoin="round"/>
+          <path d="M11 14.5L20 19L29 14.5M20 19V29" stroke="#0066CC" stroke-width="1.4" stroke-opacity="0.7"/>
+          <circle cx="29" cy="12" r="3" fill="#1E9E44">
+            <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/>
+          </circle>
+        </g>
+
+  <text x="28" y="42" font-family="'SF Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="10" font-weight="600" letter-spacing="1.6" fill="#0066CC">DEVSECOPS  ·  CONTAINER SECURITY</text>
+  <text x="28" y="76" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="22" font-weight="700" letter-spacing="-0.5" fill="#1D1D1F">Secure Docker Supply Chain</text>
+
+  <text x="28" y="112" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="13.5" fill="#515154">End-to-end hardened container delivery blueprint combining</text>
+  <text x="28" y="134" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="13.5" fill="#515154">Docker, Flask, GitHub Actions CI gates, and SBOM provenance.</text>
+
+  <line x1="28" y1="170" x2="462" y2="170" stroke="rgba(0, 0, 0, 0.07)" stroke-width="1"/>
+
+  
+      <g>
+        <rect x="28" y="194" width="62" height="28" rx="8.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <text x="59" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#515154">Docker</text>
+      </g>
+
+      <g>
+        <rect x="98" y="194" width="55" height="28" rx="8.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <text x="125.5" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#515154">Flask</text>
+      </g>
+
+      <g>
+        <rect x="161" y="194" width="118" height="28" rx="8.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <text x="220" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#515154">GitHub Actions</text>
+      </g>
+
+      <g>
+        <rect x="287" y="194" width="48" height="28" rx="8.5" fill="#F8F8FA" stroke="rgba(0, 0, 0, 0.08)" stroke-width="1"/>
+        <text x="311" y="212" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="11.5" font-weight="500" fill="#515154">SBOM</text>
+      </g>
+
+  <text x="462" y="212" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'SF Pro Text', 'Helvetica Neue', 'Segoe UI', Inter, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#0066CC">Explore ↗</text>
+</svg>

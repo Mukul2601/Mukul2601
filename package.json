@@ -1,0 +1,24 @@
+{
+  "name": "mukul2601-profile",
+  "version": "2.0.0",
+  "description": "Apple-inspired TypeScript GitHub Profile Design System for Mukul Mogha",
+  "type": "module",
+  "scripts": {
+    "generate": "node src/index.ts",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mukul2601/Mukul2601.git"
+  },
+  "author": "Mukul Mogha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mukul2601/Mukul2601/issues"
+  },
+  "homepage": "https://github.com/Mukul2601/Mukul2601#readme",
+  "devDependencies": {
+    "@types/node": "^26.6.6",
+    "typescript": "^7.0.2"
+  }
+}
