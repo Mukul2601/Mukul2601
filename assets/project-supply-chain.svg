@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="240" viewBox="0 0 500 240" role="img" aria-label="secure-docker-supply-chain-demo">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#16264a"/></linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.16"/><stop offset="1" stop-color="#fff" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.5"/><stop offset="1" stop-color="#36bcf7" stop-opacity="0.55"/></linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="32"/></filter>
+    <clipPath id="clip"><rect width="500" height="240" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="500" height="240" fill="url(#bg)"/>
+    <circle cx="430" cy="40" r="80" fill="#36bcf7" opacity="0.55" filter="url(#blur)"/>
+    <rect x="12" y="12" width="476" height="216" rx="22" fill="url(#glass)" stroke="url(#edge)" stroke-width="1.2"/>
+    <g font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+      <text x="36" y="58" font-size="26">🐳</text>
+      <text x="76" y="57" font-size="19" font-weight="700" fill="#f8fafc">secure-docker-supply-chain-demo</text>
+      <text x="36" y="102" font-size="14.5" fill="#cbd5e1">A mock container security project demonstrating</text>
+      <text x="36" y="124" font-size="14.5" fill="#cbd5e1">secure supply chain practices with SBOM concepts.</text>
+      <g transform="translate(36,160)" font-size="12.5" fill="#e0f2fe" text-anchor="middle">
+        <rect width="70" height="28" rx="14" fill="#36bcf7" fill-opacity="0.2" stroke="#36bcf7" stroke-opacity="0.5"/><text x="35" y="18">Docker</text>
+        <rect x="80" width="64" height="28" rx="14" fill="#36bcf7" fill-opacity="0.2" stroke="#36bcf7" stroke-opacity="0.5"/><text x="112" y="18">Flask</text>
+        <rect x="154" width="118" height="28" rx="14" fill="#36bcf7" fill-opacity="0.2" stroke="#36bcf7" stroke-opacity="0.5"/><text x="213" y="18">GitHub Actions</text>
+        <rect x="282" width="58" height="28" rx="14" fill="#36bcf7" fill-opacity="0.2" stroke="#36bcf7" stroke-opacity="0.5"/><text x="311" y="18">SBOM</text>
+      </g>
+      <text x="36" y="214" font-size="13" fill="#7dd3fc">View repository →</text>
+    </g>
+  </g>
+</svg>
